@@ -1,0 +1,26 @@
+.navbar{
+    background-color: beige;
+    height: 50px;
+
+}
+.home{
+    display: inline-block;
+    margin-left: 10px;
+    text-decoration: none;
+    margin-right: 50px;
+}
+.header-options{
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 17px;
+
+}
+.options{
+    margin: 10px;
+    text-decoration: none;
+
+}
+.options:hover{
+    background-color: silver;
+    border: 2px solid black;
+}

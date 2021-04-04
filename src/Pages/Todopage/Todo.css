@@ -1,0 +1,28 @@
+.todo-list{
+    background-color:paleturquoise;
+    display: inline-block;
+    margin:100px 200px;
+}
+.main-div{
+    background-color: papayawhip;
+    border: 2px solid palegoldenrod;
+    display: inline-block;
+    margin-left: 300px;
+    margin-right: 100px;
+    text-align: center;
+    height: 800px;
+}
+.todo-items{
+    
+    box-sizing: border-box;
+}
+.todo-items{
+    width: 500px;
+    height: 300px;
+    background-color: seashell;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.body{
+    background-color: salmon;
+}

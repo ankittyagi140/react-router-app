@@ -1,0 +1,16 @@
+.weather-info{
+    display: flex;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 5px;
+}
+.weather-display{
+    display: flex;
+    box-sizing: border-box;
+    margin: 10px;
+}
+.weather-chart{
+   text-align: center;
+   border: 2px solid black;
+   background-color: cornflowerblue;
+}

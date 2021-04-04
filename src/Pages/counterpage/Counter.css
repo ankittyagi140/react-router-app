@@ -1,0 +1,22 @@
+.counter-page{
+    width: 500px;
+    height: 500px;
+    background-color: seagreen;
+    display: inline-block;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+
+}
+.counter{
+    background-color: slateblue;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 150px;
+    margin-right: 150px;
+    ;
+}
+.button{
+background-color: whitesmoke;
+}

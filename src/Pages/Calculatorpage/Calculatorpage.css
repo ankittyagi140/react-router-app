@@ -1,0 +1,50 @@
+.container{
+    width: 80%;
+    border: 2px solid black;
+    display: flex;
+    margin: auto;
+    height: 600px;
+}
+.calcultor{
+    width: 200px;
+    height: 250px;    
+    margin: auto;
+    border: 2px solid black;
+}
+.custom-button{
+    width: 180px;
+    height: 400px;    
+
+}
+.input{
+    height: 40px;
+    width: 192px;
+    text-align: right;
+}
+.row{
+    display: flex;
+    margin: auto;
+    width: 200px;
+}
+.buttons{
+    border-radius: 10%;
+    padding: 2px;
+    height: 40px;
+    width: 50px;
+    display: flex;
+    margin: auto;
+    
+}
+.clear-button{
+    display: flex;
+    width: 100px;
+    border-radius: 5px;
+    height: 45px;
+
+}
+.heading{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+display: flex;
+position: relative;
+margin: auto;
+}
